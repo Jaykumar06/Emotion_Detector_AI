@@ -1,0 +1,11 @@
+langchain==0.3.7
+langchain-groq==0.2.1
+langchain-community==0.3.7
+groq==0.13.0
+python-dotenv==1.0.1
+streamlit==1.40.1
+transformers==4.46.3
+torch==2.5.1
+deepface==0.0.93
+opencv-python==4.10.0.84
+tf-keras==2.17.0
